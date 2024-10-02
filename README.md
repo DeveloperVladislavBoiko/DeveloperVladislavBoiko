@@ -22,7 +22,7 @@
 ### Социальные сети:
 
 <p align="left">
-<a href="[https://t.me/VladisalvBoikoTelegram]" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="JavaScript" /></a>    <a href="[https://vk.com/id524861432]" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="GNU Bash" /></a>
+<a href="https://t.me/VladisalvBoikoTelegram" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="JavaScript" /></a>    <a href="https://vk.com/id524861432" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="GNU Bash" /></a>
 </p>
   
 --------------------
