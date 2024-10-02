@@ -1,8 +1,5 @@
 ## Добро Пожаловать На Мой Github 
 
-
-Немного Обо Мне:
---------------------
 <p align="center">
  <img width="1000" src="Mylaptop.gif" alt="snake"/>
 </p>
