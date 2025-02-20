@@ -17,13 +17,13 @@
 ### Навыки:
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="40" height="40" alt="JavaScript" /></a>
  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="40" height="40" alt="JavaScript" /></a>
  <a href="https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://ucare.timepad.ru/80891a7a-d79b-4b47-a2d0-ed4fedac9634/poster_event_1487637.jpg" width="40" height="40" alt="GNU Bash" /></a>
+<a href="https://linuxmint.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/linux-png/penguin-linux-cartoon-png-icons-and-png-23.png" width="40" height="40" alt="Linux" /></a>
+<a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/windows-logo-png/windows-logo-microsoft-windows-logos-vector-eps-cdr-svg-25.png" width="40" height="40" alt="Linux" /></a>
 </p>
 
 --------------------
-
 
 ### Контакты для связи:
 
