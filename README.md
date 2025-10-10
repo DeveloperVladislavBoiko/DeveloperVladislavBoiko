@@ -17,22 +17,26 @@
 Благодарю вас за внимание к моему профилю. Я открыт к сотрудничеству и с интересом рассмотрю возможность участия в интересных и амбициозных проектах.
 
 
+--------------------
 
-### Навыки:
+### Навыки и компетенции:
 
 <p align="left">
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="40" height="40" alt="JavaScript" /></a>
- <a href="https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://ucare.timepad.ru/80891a7a-d79b-4b47-a2d0-ed4fedac9634/poster_event_1487637.jpg" width="40" height="40" alt="GNU Bash" /></a>
-<a href="https://linuxmint.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/linux-png/penguin-linux-cartoon-png-icons-and-png-23.png" width="40" height="40" alt="Linux" /></a>
-<a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/windows-logo-png/windows-logo-microsoft-windows-logos-vector-eps-cdr-svg-25.png" width="40" height="40" alt="Linux" /></a>
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="40" height="40" alt="Python" /></a>
+ <a href="https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://ucare.timepad.ru/80891a7a-d79b-4b47-a2d0-ed4fedac9634/poster_event_1487637.jpg" width="40" height="40" alt="C++" /></a>
+ <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" width="40" height="40" alt="C#" /></a>
+ <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" width="40" height="40" alt="Kotlin" /></a>
+ <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/arch-linux.png" width="40" height="40" alt="Arch Linux" /></a>
+ <a href="https://linuxmint.com/" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/linux-png/penguin-linux-cartoon-png-icons-and-png-23.png" width="40" height="40" alt="Linux Mint" /></a>
+ <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/windows-logo-png/windows-logo-microsoft-windows-logos-vector-eps-cdr-svg-25.png" width="40" height="40" alt="Windows" /></a>
 </p>
-
 --------------------
 
 ### Контакты для связи:
-
 <p align="left">
-<a href="https://t.me/VladisalvBoikoTelegram" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="JavaScript" /></a>    <a href="https://vk.com/id524861432" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="GNU Bash" /></a>
+<a href="https://t.me/VladisalvBoikoTelegram" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" /></a>
+<a href="https://vk.com/vladislavboikovk" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK" /></a>
+<a href="mailto:vladisalvboikowork@mai.ru" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email" /></a>
 </p>
   
 --------------------
