@@ -3,7 +3,7 @@
 
 
 <p align="center">
- <img width="400" src="Mylaptop.gif" alt="snake"/>
+ <img width="1000" src="Mylaptop.gif" alt="snake"/>
 </p>
 
 
