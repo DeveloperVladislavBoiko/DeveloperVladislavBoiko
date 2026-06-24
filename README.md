@@ -1,8 +1,11 @@
 ## Добро Пожаловать На Мой Github 
 
+
+
 <p align="center">
- <img width="1000" src="Mylaptop.gif" alt="snake"/>
+ <img width="800" src="python-ezgif.com-video-to-gif-converter.gif" alt="snake"/>
 </p>
+
 
 Здравствуйте! Меня зовут Владислав Бойко, и я занимаюсь разработкой. В основе моего профессионального подхода — постоянное развитие и готовность браться за сложные задачи в сфере IT.
 
