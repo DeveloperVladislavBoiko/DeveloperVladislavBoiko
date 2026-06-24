@@ -3,7 +3,7 @@
 
 
 <p align="center">
- <img width="400" src="python-ezgif.com-video-to-gif-converter.gif" alt="snake"/>
+ <img width="400" src="Mylaptop.gif" alt="snake"/>
 </p>
 
 
